@@ -1,0 +1,253 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-30T20:06:02Z",
+    "timestamp_areas_base": "2021-01-30T19:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1029445037,
+  "lat": 49.6655428,
+  "lon": 18.6765324,
+  "tags": {
+    "amenity": "vending_machine",
+    "drink:raw_milk": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1334624947,
+  "lat": 49.0159124,
+  "lon": 14.6102470,
+  "tags": {
+    "amenity": "vending_machine",
+    "note": "Mléko",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1372754509,
+  "lat": 49.5350208,
+  "lon": 15.9131332,
+  "tags": {
+    "amenity": "vending_machine",
+    "name": "mlékomat Budeč",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1397178402,
+  "lat": 49.0698306,
+  "lon": 17.4625435,
+  "tags": {
+    "amenity": "vending_machine",
+    "name": "Topagra - čerstvé mléko",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1596842096,
+  "lat": 49.2289185,
+  "lon": 17.6935023,
+  "tags": {
+    "amenity": "vending_machine",
+    "currency:CZK": "yes",
+    "source": "survey",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1596847505,
+  "lat": 49.2289960,
+  "lon": 17.6613530,
+  "tags": {
+    "amenity": "vending_machine",
+    "source": "survey",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 1596849427,
+  "lat": 49.2256865,
+  "lon": 17.6647895,
+  "tags": {
+    "amenity": "vending_machine",
+    "source": "survey",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 2209716860,
+  "lat": 49.2822068,
+  "lon": 15.8015012,
+  "tags": {
+    "amenity": "vending_machine",
+    "operator": "ZD Podlesí",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 3951898307,
+  "lat": 49.9011137,
+  "lon": 18.4336700,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 4309629073,
+  "lat": 49.6491552,
+  "lon": 18.4389344,
+  "tags": {
+    "amenity": "vending_machine",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 4398659661,
+  "lat": 50.3714167,
+  "lon": 14.2678221,
+  "tags": {
+    "amenity": "vending_machine",
+    "operator": "Vítězslav Škoda",
+    "payment:american_express": "no",
+    "payment:coins": "yes",
+    "payment:diners_club": "no",
+    "payment:discover_card": "no",
+    "payment:laser": "no",
+    "payment:maestro": "no",
+    "payment:mastercard": "no",
+    "payment:notes": "no",
+    "payment:visa": "no",
+    "phone": "+420 737 971 543",
+    "start_date": "2010-04",
+    "vending": "milk",
+    "website": "http://www.mlekozvrazkova.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4681399466,
+  "lat": 49.8510263,
+  "lon": 18.3164929,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 4816459591,
+  "lat": 49.7437476,
+  "lon": 18.6235926,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 4833128501,
+  "lat": 49.7181787,
+  "lon": 18.3829994,
+  "tags": {
+    "amenity": "vending_machine",
+    "opening_hours": "Mo-Su 07:00-18:30",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 5600377819,
+  "lat": 49.6081476,
+  "lon": 18.3625306,
+  "tags": {
+    "amenity": "vending_machine",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 5907097658,
+  "lat": 49.4607627,
+  "lon": 17.1766467,
+  "tags": {
+    "amenity": "vending_machine",
+    "covered": "yes",
+    "currency:CZK": "yes",
+    "payment:cash": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 6050584841,
+  "lat": 49.7438936,
+  "lon": 18.6236085,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 6169344463,
+  "lat": 49.4526557,
+  "lon": 16.5382662,
+  "tags": {
+    "amenity": "vending_machine",
+    "operator": "Tmléko",
+    "payment:coins": "yes",
+    "payment:notes": "no",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 6402185488,
+  "lat": 49.7127390,
+  "lon": 14.9294398,
+  "tags": {
+    "amenity": "vending_machine",
+    "currency:CZK": "yes",
+    "description": "Prodejní automat čerstvě nadojeného mléka do vlastní nádoby / Fresh non-pasteurized milk vending machine (must have your own bottle)",
+    "operator": "Mlékomat - Rolnická společnost a.s.",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
+},
+{
+  "type": "node",
+  "id": 7843052999,
+  "lat": 49.2210253,
+  "lon": 16.5852618,
+  "tags": {
+    "amenity": "vending_machine",
+    "payment:coins": "yes",
+    "vending": "milk;bottles"
+  }
+}
+
+  ]
+}

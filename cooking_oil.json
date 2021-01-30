@@ -1,0 +1,3904 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-30T20:22:02Z",
+    "timestamp_areas_base": "2021-01-30T19:41:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 413548794,
+  "lat": 49.1741358,
+  "lon": 16.5282606,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 721 375 261",
+    "name": "SSO Pražská",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "operator": "SAKO Brno, a.s.",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:computers": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:mobile_phones": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling:white_goods": "yes",
+    "recycling_type": "centre",
+    "source:opening_hours": "http://www.bosonohy.cz/VismoOnline_ActionScripts/File.aspx?id_org=80924&id_dokumenty=64174"
+  }
+},
+{
+  "type": "node",
+  "id": 1343799792,
+  "lat": 49.3660980,
+  "lon": 16.2561517,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 1794981688,
+  "lat": 50.0378963,
+  "lon": 14.3903415,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 1822620944,
+  "lat": 49.4073919,
+  "lon": 16.6356112,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2131490968,
+  "lat": 49.7269103,
+  "lon": 13.3698410,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2296437826,
+  "lat": 49.3764379,
+  "lon": 16.3632459,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2354578003,
+  "lat": 50.2046638,
+  "lon": 14.4736122,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2354578006,
+  "lat": 50.2032911,
+  "lon": 14.4731794,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2388205539,
+  "lat": 49.1976309,
+  "lon": 16.6622430,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 602 173 308",
+    "name": "SSO Líšeňská",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:00-16:00; Sa 09:00-12:00,14:00-17:00; Su 14:00-17:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:car_parts": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2493961221,
+  "lat": 50.2062786,
+  "lon": 14.4781215,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2499469937,
+  "lat": 49.7351252,
+  "lon": 13.3657044,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2637000589,
+  "lat": 49.1350150,
+  "lon": 17.0473157,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2733297125,
+  "lat": 49.2142763,
+  "lon": 16.5862470,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 721 880 286",
+    "name": "SSO Korejská",
+    "opening_hours": "Tu-Fr 09:00-13:00, Mo-Fr 14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3066368477,
+  "lat": 50.2902481,
+  "lon": 14.3209583,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3163644617,
+  "lat": 49.3927613,
+  "lon": 16.3114594,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3457044493,
+  "lat": 49.2123546,
+  "lon": 16.5659291,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 722 568 962",
+    "name": "SSO Sochorova",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "phone": "+420 542 174 574",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3457044494,
+  "lat": 49.2204771,
+  "lon": 16.5599740,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 607 807 362",
+    "name": "SSO Pastviny",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "operator": "SAKO",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3580390037,
+  "lat": 50.1443763,
+  "lon": 14.7461804,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "playground",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3686255028,
+  "lat": 49.3141204,
+  "lon": 16.4531406,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3686255029,
+  "lat": 49.3097528,
+  "lon": 16.4452267,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3885803984,
+  "lat": 48.9697368,
+  "lon": 14.5065562,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3967155812,
+  "lat": 49.3904676,
+  "lon": 14.6849869,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4244258189,
+  "lat": 49.1813279,
+  "lon": 16.6904259,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 720 201 463",
+    "name": "SSO Mikulčická",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4336181411,
+  "lat": 48.9906702,
+  "lon": 14.4683179,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "no",
+    "recycling:books": "no",
+    "recycling:cans": "no",
+    "recycling:cardboard": "no",
+    "recycling:cartons": "no",
+    "recycling:clothes": "no",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "no",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "no",
+    "recycling:green_waste": "no",
+    "recycling:magazines": "no",
+    "recycling:newspaper": "no",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "no",
+    "recycling:plastic": "no",
+    "recycling:plastic_bottles": "no",
+    "recycling:plastic_packaging": "no",
+    "recycling:scrap_metal": "no",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "no",
+    "recycling:wood": "no",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4365267022,
+  "lat": 48.9818637,
+  "lon": 14.4444482,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "no",
+    "recycling:books": "yes",
+    "recycling:cans": "no",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:clothes": "no",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "no",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "no",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "no",
+    "recycling:small_appliances": "no",
+    "recycling:waste": "no",
+    "recycling:wood": "no",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4369771071,
+  "lat": 49.5509454,
+  "lon": 16.7140785,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4438271862,
+  "lat": 50.2023809,
+  "lon": 14.4842487,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5016881801,
+  "lat": 49.7106292,
+  "lon": 13.6492373,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5146839939,
+  "lat": 49.4912272,
+  "lon": 16.6525239,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5308594636,
+  "lat": 49.0673009,
+  "lon": 17.4648420,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5339504778,
+  "lat": 50.0703087,
+  "lon": 14.4737307,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:cans": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5436255708,
+  "lat": 49.4095745,
+  "lon": 16.6241142,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5474313616,
+  "lat": 50.0712724,
+  "lon": 14.4352583,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5760756031,
+  "lat": 49.8878432,
+  "lon": 16.4802237,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Rybník",
+    "opening_hours": "We 13:00-17:00; Sa 09:00-13:00; PH closed",
+    "operator": "Obec Rybník",
+    "phone": "+420 465 533 387",
+    "recycling:PET": "yes",
+    "recycling:aluminium": "yes",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:coffee_capsules": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:engine_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "website": "http://www.rybnik.cz",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5903816679,
+  "lat": 48.9938660,
+  "lon": 14.4073570,
+  "tags": {
+    "amenity": "recycling",
+    "covered": "no",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "streetlevel imagery"
+  }
+},
+{
+  "type": "node",
+  "id": 5962737198,
+  "lat": 49.1321499,
+  "lon": 16.4791603,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6018375219,
+  "lat": 49.7347822,
+  "lon": 13.3656466,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6398997887,
+  "lat": 50.0682145,
+  "lon": 14.5170724,
+  "tags": {
+    "amenity": "recycling",
+    "covered": "no",
+    "indoor": "no",
+    "recycling:cans": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6469965323,
+  "lat": 49.1349324,
+  "lon": 16.4768498,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6470941356,
+  "lat": 49.3219140,
+  "lon": 16.3948403,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6631142387,
+  "lat": 50.5310418,
+  "lon": 16.0481100,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:aluminium": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6647906950,
+  "lat": 49.2740811,
+  "lon": 16.5935394,
+  "tags": {
+    "amenity": "recycling",
+    "collection_times": "Tu,Fr 12:30-18:00; Sa 09:00-13:00",
+    "mobile": "+420 606 914 860",
+    "name": "SSO Plástky",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7086977037,
+  "lat": 49.3264978,
+  "lon": 16.8561133,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7093890849,
+  "lat": 49.5644443,
+  "lon": 16.0792569,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7093890851,
+  "lat": 49.5661470,
+  "lon": 16.0756429,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7093890853,
+  "lat": 49.5696872,
+  "lon": 16.0710845,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7093890855,
+  "lat": 49.5610019,
+  "lon": 16.0671413,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7159452159,
+  "lat": 49.3357215,
+  "lon": 16.4392498,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7182579187,
+  "lat": 49.3679812,
+  "lon": 16.4297239,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7239219684,
+  "lat": 48.9905922,
+  "lon": 14.4697681,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7261843451,
+  "lat": 49.3667210,
+  "lon": 16.3427837,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7267299371,
+  "lat": 50.5336729,
+  "lon": 16.0513216,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:aluminium": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7275374142,
+  "lat": 49.3949016,
+  "lon": 16.6292089,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7280466765,
+  "lat": 50.5350394,
+  "lon": 16.1086956,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7301801681,
+  "lat": 50.1673079,
+  "lon": 14.7877264,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7301825486,
+  "lat": 50.1637402,
+  "lon": 14.7873308,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7305912978,
+  "lat": 50.1694252,
+  "lon": 14.7696829,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7305912979,
+  "lat": 50.1677946,
+  "lon": 14.7699274,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7305912981,
+  "lat": 50.1656404,
+  "lon": 14.7709582,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7362904626,
+  "lat": 48.9846145,
+  "lon": 14.4464019,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7395589158,
+  "lat": 49.2824383,
+  "lon": 16.5650731,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "SAKO",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7482888093,
+  "lat": 49.1104391,
+  "lon": 16.9016419,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7482888101,
+  "lat": 49.1081018,
+  "lon": 16.8997247,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7498890455,
+  "lat": 49.3535896,
+  "lon": 16.2757399,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7542286638,
+  "lat": 49.1217955,
+  "lon": 16.9477034,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7552495970,
+  "lat": 49.3043621,
+  "lon": 16.6543867,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7575417793,
+  "lat": 49.2083575,
+  "lon": 16.8838101,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7619330536,
+  "lat": 49.7322243,
+  "lon": 13.3654173,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7743861125,
+  "lat": 49.0883257,
+  "lon": 13.4822817,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7788221884,
+  "lat": 49.5050591,
+  "lon": 16.3395756,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7859370503,
+  "lat": 49.4789053,
+  "lon": 16.4907544,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7891280638,
+  "lat": 49.2929819,
+  "lon": 16.8037130,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8063385424,
+  "lat": 49.2976432,
+  "lon": 16.8922999,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8073785167,
+  "lat": 50.3329042,
+  "lon": 16.9864327,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8177398087,
+  "lat": 49.1458004,
+  "lon": 17.0782359,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8185318761,
+  "lat": 49.0694491,
+  "lon": 17.0261480,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8185368339,
+  "lat": 49.4830777,
+  "lon": 16.6716753,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8206789601,
+  "lat": 49.7091752,
+  "lon": 16.1385371,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8251245817,
+  "lat": 49.3849058,
+  "lon": 16.2917198,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8264737585,
+  "lat": 50.2042721,
+  "lon": 14.4652787,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8289419721,
+  "lat": 50.0134830,
+  "lon": 14.6338048,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8309085245,
+  "lat": 49.2121457,
+  "lon": 17.0597194,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8343327125,
+  "lat": 49.1577858,
+  "lon": 17.0738778,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8346398475,
+  "lat": 49.0548446,
+  "lon": 17.0812267,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8350308682,
+  "lat": 49.3485142,
+  "lon": 16.8113568,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8350308688,
+  "lat": 49.3508054,
+  "lon": 16.8073656,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8350308697,
+  "lat": 49.3550079,
+  "lon": 16.8035288,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8355193388,
+  "lat": 49.1315014,
+  "lon": 16.4791002,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8358209625,
+  "lat": 49.1514191,
+  "lon": 16.5106462,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8358209628,
+  "lat": 49.1522899,
+  "lon": 16.5044783,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8361395838,
+  "lat": 49.1835549,
+  "lon": 16.6418598,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 728 864 613",
+    "name": "SSO Húskova",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8362552199,
+  "lat": 49.2646660,
+  "lon": 16.5667274,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 602 943 715",
+    "name": "SSO Atriová",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8362552200,
+  "lat": 49.2743000,
+  "lon": 16.6070818,
+  "tags": {
+    "amenity": "recycling",
+    "name": "SSO Drozdí",
+    "opening_hours": "Th 17:00-19:00; Sa 09:00-12:00",
+    "phone": "+420 541 237 257",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8365046487,
+  "lat": 49.2064085,
+  "lon": 16.4972691,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 607 414 142",
+    "name": "SSO Pod Kopcem",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8368010980,
+  "lat": 49.1320964,
+  "lon": 16.6454391,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 728 864 460",
+    "name": "SSO Zámecká",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8368010981,
+  "lat": 49.1687583,
+  "lon": 16.6108074,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 739 788 460",
+    "name": "SSO Košuličova",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8368095746,
+  "lat": 49.1512399,
+  "lon": 16.6649535,
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 606 914 766",
+    "name": "SSO Malínská",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-12:00,13:00-17:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8372375589,
+  "lat": 49.4502304,
+  "lon": 16.5020399,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8378273970,
+  "lat": 50.1962319,
+  "lon": 14.5100620,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 27169702,
+  "nodes": [
+    298105775,
+    2294305573,
+    2294305572,
+    2294305569,
+    3750404723,
+    298105778,
+    2294305568,
+    2294305567,
+    6179213577,
+    2294305563,
+    2294305564,
+    2294305566,
+    298105775
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "SSO Okružní",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-12:00,13:00-17:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "cuzk:km;bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 27169704,
+  "nodes": [
+    298105782,
+    298105783,
+    298105785,
+    298105787,
+    298105782
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "mobile": "+420 732 906 591",
+    "name": "SSO Dusíkova",
+    "opening_hours": "Mo 14:00-18:00, Tu-Fr 09:00-13:00,14:00-18:00, Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre",
+    "source": "uhul:ortofoto;survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 27169720,
+  "nodes": [
+    298106076,
+    298106077,
+    298106078,
+    298106079,
+    3981761271,
+    298106076
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "contact:phone": "+420 720 236 634",
+    "contact:website": "http://www.sako.cz/sberna-strediska/cz/#sso288",
+    "name": "SSO Útěchovská",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00; Su,Mo,PH off",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 31359071,
+  "nodes": [
+    349281158,
+    349280613,
+    349280612,
+    349281160,
+    349281158
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "layer": "-1",
+    "mobile": "+420 720 228 447",
+    "name": "SSO Hapalova",
+    "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 32246528,
+  "nodes": [
+    361737721,
+    361737726,
+    361737733,
+    361737737,
+    361737740,
+    361737721
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "mobile": "+420 602 889 742",
+    "name": "SSO Zemanova-Černozemní",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 32735504,
+  "nodes": [
+    368344497,
+    368344498,
+    368344499,
+    6964899552,
+    368344504,
+    368344500,
+    6964899551,
+    368344497
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "fence": "wire",
+    "mobile": "+420 606 914 901",
+    "name": "SSO J.Faimonové",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-12:00,13:00-17:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre",
+    "source": "uhul:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 44328449,
+  "nodes": [
+    3106416351,
+    3106416352,
+    3106416353,
+    3106416355,
+    3106416346,
+    3106416347,
+    3106416345,
+    3106416344,
+    3106416331,
+    3106407625,
+    563247787,
+    563247778,
+    3106416351
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "mobile": "+420 606 914 795",
+    "name": "SSO Bieblova",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 51844962,
+  "nodes": [
+    661334343,
+    661334347,
+    661334344,
+    661334345,
+    661334346,
+    3293161903,
+    661334343
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "mobile": "+420 606 914 792",
+    "name": "SSO Ukrajinská",
+    "opening_hours": "Tu-Sa 09:00-13:00,13:30-17:30",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 136279142,
+  "nodes": [
+    1495176924,
+    1495176925,
+    1495176923,
+    1495176921,
+    1495176924
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 606 915 453",
+    "name": "SSO Vltavská",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 176299264,
+  "nodes": [
+    1868452901,
+    1868452902,
+    1868452903,
+    1868452900,
+    1868452899,
+    1868452897,
+    1868452893,
+    1868452891,
+    1868452888,
+    1868452901
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "mobile": "+420 606 914 815",
+    "name": "SSO Páteřní",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-12:00,13:00-17:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 208511340,
+  "nodes": [
+    2188055799,
+    456948875,
+    5094713416,
+    456948874,
+    456948872,
+    5784558353,
+    2188055799
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "mobile": "+420 606 914 814",
+    "name": "SSO U ZOO",
+    "opening_hours": "Mo 14:00-18:00;Tu-Fr 09:00-13:00,14:00-18:00;Sa 08:00-12:00;PH off",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 279663842,
+  "nodes": [
+    2838697112,
+    2838697110,
+    2838697109,
+    2838697111,
+    2838697112
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 604 431 359",
+    "name": "SSO Veveří",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 303596854,
+  "nodes": [
+    3079907677,
+    2621938115,
+    2621938106,
+    2621938101,
+    3084218666,
+    3079907724,
+    3079907654,
+    3079907711,
+    3079907677
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "mobile": "+420 728 864 560",
+    "name": "SSO Žebětínská",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 320073839,
+  "nodes": [
+    3265720306,
+    3265720311,
+    480675765,
+    3265720310,
+    3265720305,
+    3265720306
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "fence_type": "metal",
+    "mobile": "+420 731 842 687",
+    "name": "SSO Oblá",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00; Su off",
+    "operator": "SAKO Brno, a.s.",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre",
+    "source": "survey;cuzk:km",
+    "source:opening_hours": "http://www.novy-liskovec.cz/data/stranky/126_sberne_stredisko.pdf",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371632923,
+  "nodes": [
+    3751951330,
+    3751951329,
+    3751950723,
+    3751950722,
+    3751951326,
+    3751951330
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 722 000 807",
+    "name": "SSO Adamovská",
+    "opening_hours": "Tu,Fr 12:30-18:00; Sa 09:00-13:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 380808480,
+  "nodes": [
+    3841176064,
+    3841176065,
+    3841189529,
+    3841176066,
+    3841176067,
+    3841176064
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "mobile": "+420 606 914 769",
+    "name": "SSO Sladovnická",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00; PH off",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 451691171,
+  "nodes": [
+    4485123013,
+    4485123018,
+    4485123015,
+    4485123016,
+    4485123017,
+    4485123014,
+    4485123012,
+    4485123013
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 721 068 131",
+    "name": "SSO Rysova",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:magazines": "yes",
+    "recycling:metal": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 473976490,
+  "nodes": [
+    4680046361,
+    4680046360,
+    4680046359,
+    4680046358,
+    4680046357,
+    4680046361
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 722 548 100",
+    "name": "SSO Točná",
+    "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "cuzk:km;uhul:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 698113461,
+  "nodes": [
+    3801923735,
+    6556283140,
+    3801923748,
+    6556283155,
+    3801923745,
+    3801923733,
+    6556283154,
+    3801923735
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "contact:phone": "+420 606 961 777",
+    "name": "SSO Plynárenská",
+    "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre",
+    "source": "cuzk:km;DigitalGlobe"
+  }
+},
+{
+  "type": "way",
+  "id": 734256837,
+  "nodes": [
+    1057713587,
+    6876132365,
+    1057717131,
+    1057717307,
+    6876132366,
+    1057713587
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 728 864 587",
+    "name": "SSO Mírová",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 744187273,
+  "nodes": [
+    6964911179,
+    6964911178,
+    6964911177,
+    6964911176,
+    6964911179
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "mobile": "+420 728 864 669",
+    "name": "SSO Vídeňská-Jílová",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "operator": "SAKO a.s.",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 817676808,
+  "nodes": [
+    7636367089,
+    7636367090,
+    7636367091,
+    7636367092,
+    7636367093,
+    7636367089
+  ],
+  "tags": {
+    "addr:city": "Brno",
+    "addr:postcode": "61700",
+    "addr:street": "bratří Žůrků",
+    "amenity": "recycling",
+    "mobile": "+420 607 807 683",
+    "name": "SSO Bratří Žůrků",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 877345338,
+  "nodes": [
+    8162904626,
+    8162904627,
+    8162904628,
+    8162904629,
+    704513091,
+    704513495,
+    8162904630,
+    3159598080,
+    8162904631,
+    8162904632,
+    8162904634,
+    8162904633,
+    8162904626
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "fence_type": "wall",
+    "mobile": "+420 737 323 398",
+    "name": "SSO Jana Svobody",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4680046357,
+  "lat": 49.1629813,
+  "lon": 16.5598901
+},
+{
+  "type": "node",
+  "id": 4680046358,
+  "lat": 49.1630466,
+  "lon": 16.5597081
+},
+{
+  "type": "node",
+  "id": 4680046359,
+  "lat": 49.1631937,
+  "lon": 16.5597611
+},
+{
+  "type": "node",
+  "id": 4680046360,
+  "lat": 49.1631539,
+  "lon": 16.5598821
+},
+{
+  "type": "node",
+  "id": 4680046361,
+  "lat": 49.1630888,
+  "lon": 16.5601670
+},
+{
+  "type": "node",
+  "id": 480675765,
+  "lat": 49.1741140,
+  "lon": 16.5583732
+},
+{
+  "type": "node",
+  "id": 3265720305,
+  "lat": 49.1739830,
+  "lon": 16.5582520
+},
+{
+  "type": "node",
+  "id": 3265720306,
+  "lat": 49.1739938,
+  "lon": 16.5586230
+},
+{
+  "type": "node",
+  "id": 3265720310,
+  "lat": 49.1741121,
+  "lon": 16.5581966
+},
+{
+  "type": "node",
+  "id": 3265720311,
+  "lat": 49.1741157,
+  "lon": 16.5585289
+},
+{
+  "type": "node",
+  "id": 1495176921,
+  "lat": 49.1690541,
+  "lon": 16.5653017
+},
+{
+  "type": "node",
+  "id": 1495176923,
+  "lat": 49.1690884,
+  "lon": 16.5655286
+},
+{
+  "type": "node",
+  "id": 1495176924,
+  "lat": 49.1692977,
+  "lon": 16.5653328
+},
+{
+  "type": "node",
+  "id": 1495176925,
+  "lat": 49.1693117,
+  "lon": 16.5655597
+},
+{
+  "type": "node",
+  "id": 2621938101,
+  "lat": 49.1964536,
+  "lon": 16.5328196
+},
+{
+  "type": "node",
+  "id": 2621938106,
+  "lat": 49.1964691,
+  "lon": 16.5326801
+},
+{
+  "type": "node",
+  "id": 2621938115,
+  "lat": 49.1965365,
+  "lon": 16.5326910
+},
+{
+  "type": "node",
+  "id": 3079907654,
+  "lat": 49.1965129,
+  "lon": 16.5331376
+},
+{
+  "type": "node",
+  "id": 3079907677,
+  "lat": 49.1965738,
+  "lon": 16.5326977
+},
+{
+  "type": "node",
+  "id": 3079907711,
+  "lat": 49.1965631,
+  "lon": 16.5330587
+},
+{
+  "type": "node",
+  "id": 3079907724,
+  "lat": 49.1964301,
+  "lon": 16.5331290
+},
+{
+  "type": "node",
+  "id": 3084218666,
+  "lat": 49.1964474,
+  "lon": 16.5328754
+},
+{
+  "type": "node",
+  "id": 1868452888,
+  "lat": 49.2232842,
+  "lon": 16.5193149
+},
+{
+  "type": "node",
+  "id": 1868452891,
+  "lat": 49.2232854,
+  "lon": 16.5194036
+},
+{
+  "type": "node",
+  "id": 1868452893,
+  "lat": 49.2233793,
+  "lon": 16.5194071
+},
+{
+  "type": "node",
+  "id": 1868452897,
+  "lat": 49.2233839,
+  "lon": 16.5196892
+},
+{
+  "type": "node",
+  "id": 1868452899,
+  "lat": 49.2234928,
+  "lon": 16.5196945
+},
+{
+  "type": "node",
+  "id": 1868452900,
+  "lat": 49.2235009,
+  "lon": 16.5197548
+},
+{
+  "type": "node",
+  "id": 1868452901,
+  "lat": 49.2238207,
+  "lon": 16.5193531
+},
+{
+  "type": "node",
+  "id": 1868452902,
+  "lat": 49.2238265,
+  "lon": 16.5194631
+},
+{
+  "type": "node",
+  "id": 1868452903,
+  "lat": 49.2238385,
+  "lon": 16.5197064
+},
+{
+  "type": "node",
+  "id": 456948872,
+  "lat": 49.2269447,
+  "lon": 16.5353226
+},
+{
+  "type": "node",
+  "id": 456948874,
+  "lat": 49.2268566,
+  "lon": 16.5350344
+},
+{
+  "type": "node",
+  "id": 456948875,
+  "lat": 49.2270164,
+  "lon": 16.5349193
+},
+{
+  "type": "node",
+  "id": 2188055799,
+  "lat": 49.2271185,
+  "lon": 16.5351965
+},
+{
+  "type": "node",
+  "id": 5094713416,
+  "lat": 49.2269360,
+  "lon": 16.5349808
+},
+{
+  "type": "node",
+  "id": 5784558353,
+  "lat": 49.2270179,
+  "lon": 16.5352679
+},
+{
+  "type": "node",
+  "id": 661334343,
+  "lat": 49.1711350,
+  "lon": 16.5866630
+},
+{
+  "type": "node",
+  "id": 661334344,
+  "lat": 49.1709700,
+  "lon": 16.5866560
+},
+{
+  "type": "node",
+  "id": 661334345,
+  "lat": 49.1709660,
+  "lon": 16.5871330
+},
+{
+  "type": "node",
+  "id": 661334346,
+  "lat": 49.1711310,
+  "lon": 16.5871360
+},
+{
+  "type": "node",
+  "id": 661334347,
+  "lat": 49.1710355,
+  "lon": 16.5866588
+},
+{
+  "type": "node",
+  "id": 3293161903,
+  "lat": 49.1711324,
+  "lon": 16.5869689
+},
+{
+  "type": "node",
+  "id": 6964911176,
+  "lat": 49.1770693,
+  "lon": 16.5942894
+},
+{
+  "type": "node",
+  "id": 6964911177,
+  "lat": 49.1770781,
+  "lon": 16.5945147
+},
+{
+  "type": "node",
+  "id": 6964911178,
+  "lat": 49.1773639,
+  "lon": 16.5944557
+},
+{
+  "type": "node",
+  "id": 6964911179,
+  "lat": 49.1773560,
+  "lon": 16.5942572
+},
+{
+  "type": "node",
+  "id": 3841176064,
+  "lat": 49.1519038,
+  "lon": 16.6514887
+},
+{
+  "type": "node",
+  "id": 3841176065,
+  "lat": 49.1519087,
+  "lon": 16.6519572
+},
+{
+  "type": "node",
+  "id": 3841176066,
+  "lat": 49.1517381,
+  "lon": 16.6519614
+},
+{
+  "type": "node",
+  "id": 3841176067,
+  "lat": 49.1517331,
+  "lon": 16.6514929
+},
+{
+  "type": "node",
+  "id": 3841189529,
+  "lat": 49.1518273,
+  "lon": 16.6519592
+},
+{
+  "type": "node",
+  "id": 7636367089,
+  "lat": 49.1756628,
+  "lon": 16.6289729
+},
+{
+  "type": "node",
+  "id": 7636367090,
+  "lat": 49.1757961,
+  "lon": 16.6291929
+},
+{
+  "type": "node",
+  "id": 7636367091,
+  "lat": 49.1757698,
+  "lon": 16.6292331
+},
+{
+  "type": "node",
+  "id": 7636367092,
+  "lat": 49.1755725,
+  "lon": 16.6291084
+},
+{
+  "type": "node",
+  "id": 7636367093,
+  "lat": 49.1755628,
+  "lon": 16.6289971
+},
+{
+  "type": "node",
+  "id": 1057713587,
+  "lat": 49.1769138,
+  "lon": 16.6338962
+},
+{
+  "type": "node",
+  "id": 1057717131,
+  "lat": 49.1765215,
+  "lon": 16.6335667
+},
+{
+  "type": "node",
+  "id": 1057717307,
+  "lat": 49.1769624,
+  "lon": 16.6336512
+},
+{
+  "type": "node",
+  "id": 6876132365,
+  "lat": 49.1764926,
+  "lon": 16.6337698
+},
+{
+  "type": "node",
+  "id": 6876132366,
+  "lat": 49.1769393,
+  "lon": 16.6337718
+},
+{
+  "type": "node",
+  "id": 361737721,
+  "lat": 49.1767827,
+  "lon": 16.6825481
+},
+{
+  "type": "node",
+  "id": 361737726,
+  "lat": 49.1767477,
+  "lon": 16.6824737
+},
+{
+  "type": "node",
+  "id": 361737733,
+  "lat": 49.1765214,
+  "lon": 16.6821813
+},
+{
+  "type": "node",
+  "id": 361737737,
+  "lat": 49.1765792,
+  "lon": 16.6820803
+},
+{
+  "type": "node",
+  "id": 361737740,
+  "lat": 49.1768478,
+  "lon": 16.6824194
+},
+{
+  "type": "node",
+  "id": 2838697109,
+  "lat": 49.2092084,
+  "lon": 16.5900916
+},
+{
+  "type": "node",
+  "id": 2838697110,
+  "lat": 49.2093452,
+  "lon": 16.5904267
+},
+{
+  "type": "node",
+  "id": 2838697111,
+  "lat": 49.2094659,
+  "lon": 16.5898299
+},
+{
+  "type": "node",
+  "id": 2838697112,
+  "lat": 49.2095838,
+  "lon": 16.5902163
+},
+{
+  "type": "node",
+  "id": 563247778,
+  "lat": 49.2163411,
+  "lon": 16.6158122
+},
+{
+  "type": "node",
+  "id": 563247787,
+  "lat": 49.2160910,
+  "lon": 16.6159705
+},
+{
+  "type": "node",
+  "id": 3106407625,
+  "lat": 49.2161234,
+  "lon": 16.6160879
+},
+{
+  "type": "node",
+  "id": 3106416331,
+  "lat": 49.2161711,
+  "lon": 16.6162636
+},
+{
+  "type": "node",
+  "id": 3106416344,
+  "lat": 49.2163112,
+  "lon": 16.6161738
+},
+{
+  "type": "node",
+  "id": 3106416345,
+  "lat": 49.2163183,
+  "lon": 16.6161976
+},
+{
+  "type": "node",
+  "id": 3106416346,
+  "lat": 49.2163328,
+  "lon": 16.6161606
+},
+{
+  "type": "node",
+  "id": 3106416347,
+  "lat": 49.2163386,
+  "lon": 16.6161839
+},
+{
+  "type": "node",
+  "id": 3106416351,
+  "lat": 49.2163745,
+  "lon": 16.6159272
+},
+{
+  "type": "node",
+  "id": 3106416352,
+  "lat": 49.2163782,
+  "lon": 16.6159392
+},
+{
+  "type": "node",
+  "id": 3106416353,
+  "lat": 49.2164100,
+  "lon": 16.6160559
+},
+{
+  "type": "node",
+  "id": 3106416355,
+  "lat": 49.2164229,
+  "lon": 16.6161036
+},
+{
+  "type": "node",
+  "id": 4485123012,
+  "lat": 49.2409403,
+  "lon": 16.5723865
+},
+{
+  "type": "node",
+  "id": 4485123013,
+  "lat": 49.2411041,
+  "lon": 16.5721384
+},
+{
+  "type": "node",
+  "id": 4485123014,
+  "lat": 49.2411330,
+  "lon": 16.5726789
+},
+{
+  "type": "node",
+  "id": 4485123015,
+  "lat": 49.2411662,
+  "lon": 16.5724080
+},
+{
+  "type": "node",
+  "id": 4485123016,
+  "lat": 49.2411662,
+  "lon": 16.5724670
+},
+{
+  "type": "node",
+  "id": 4485123017,
+  "lat": 49.2412048,
+  "lon": 16.5725287
+},
+{
+  "type": "node",
+  "id": 4485123018,
+  "lat": 49.2412214,
+  "lon": 16.5723208
+},
+{
+  "type": "node",
+  "id": 3801923733,
+  "lat": 49.1976411,
+  "lon": 16.6272967
+},
+{
+  "type": "node",
+  "id": 3801923735,
+  "lat": 49.1976474,
+  "lon": 16.6271383
+},
+{
+  "type": "node",
+  "id": 3801923745,
+  "lat": 49.1977710,
+  "lon": 16.6277778
+},
+{
+  "type": "node",
+  "id": 3801923748,
+  "lat": 49.1978302,
+  "lon": 16.6278225
+},
+{
+  "type": "node",
+  "id": 6556283140,
+  "lat": 49.1978728,
+  "lon": 16.6271693
+},
+{
+  "type": "node",
+  "id": 6556283154,
+  "lat": 49.1976445,
+  "lon": 16.6272121
+},
+{
+  "type": "node",
+  "id": 6556283155,
+  "lat": 49.1977878,
+  "lon": 16.6278163
+},
+{
+  "type": "node",
+  "id": 704513091,
+  "lat": 49.2042871,
+  "lon": 16.6278449
+},
+{
+  "type": "node",
+  "id": 704513495,
+  "lat": 49.2042375,
+  "lon": 16.6278082
+},
+{
+  "type": "node",
+  "id": 3159598080,
+  "lat": 49.2042366,
+  "lon": 16.6277796
+},
+{
+  "type": "node",
+  "id": 8162904626,
+  "lat": 49.2044218,
+  "lon": 16.6278526
+},
+{
+  "type": "node",
+  "id": 8162904627,
+  "lat": 49.2043552,
+  "lon": 16.6278097
+},
+{
+  "type": "node",
+  "id": 8162904628,
+  "lat": 49.2043263,
+  "lon": 16.6278164
+},
+{
+  "type": "node",
+  "id": 8162904629,
+  "lat": 49.2043096,
+  "lon": 16.6278647
+},
+{
+  "type": "node",
+  "id": 8162904630,
+  "lat": 49.2042290,
+  "lon": 16.6278030
+},
+{
+  "type": "node",
+  "id": 8162904631,
+  "lat": 49.2043281,
+  "lon": 16.6274873
+},
+{
+  "type": "node",
+  "id": 8162904632,
+  "lat": 49.2043321,
+  "lon": 16.6274737
+},
+{
+  "type": "node",
+  "id": 8162904633,
+  "lat": 49.2045034,
+  "lon": 16.6275963
+},
+{
+  "type": "node",
+  "id": 8162904634,
+  "lat": 49.2044671,
+  "lon": 16.6275704
+},
+{
+  "type": "node",
+  "id": 298105775,
+  "lat": 49.2229283,
+  "lon": 16.6207102
+},
+{
+  "type": "node",
+  "id": 298105778,
+  "lat": 49.2228891,
+  "lon": 16.6211262
+},
+{
+  "type": "node",
+  "id": 2294305563,
+  "lat": 49.2228810,
+  "lon": 16.6209198
+},
+{
+  "type": "node",
+  "id": 2294305564,
+  "lat": 49.2228814,
+  "lon": 16.6208776
+},
+{
+  "type": "node",
+  "id": 2294305566,
+  "lat": 49.2228889,
+  "lon": 16.6208103
+},
+{
+  "type": "node",
+  "id": 2294305567,
+  "lat": 49.2229055,
+  "lon": 16.6210075
+},
+{
+  "type": "node",
+  "id": 2294305568,
+  "lat": 49.2229119,
+  "lon": 16.6210393
+},
+{
+  "type": "node",
+  "id": 2294305569,
+  "lat": 49.2232834,
+  "lon": 16.6213581
+},
+{
+  "type": "node",
+  "id": 2294305572,
+  "lat": 49.2232932,
+  "lon": 16.6212420
+},
+{
+  "type": "node",
+  "id": 2294305573,
+  "lat": 49.2232999,
+  "lon": 16.6211219
+},
+{
+  "type": "node",
+  "id": 3750404723,
+  "lat": 49.2230973,
+  "lon": 16.6212471
+},
+{
+  "type": "node",
+  "id": 6179213577,
+  "lat": 49.2228971,
+  "lon": 16.6209815
+},
+{
+  "type": "node",
+  "id": 298105782,
+  "lat": 49.2366199,
+  "lon": 16.6276506
+},
+{
+  "type": "node",
+  "id": 298105783,
+  "lat": 49.2366912,
+  "lon": 16.6279374
+},
+{
+  "type": "node",
+  "id": 298105785,
+  "lat": 49.2363868,
+  "lon": 16.6281279
+},
+{
+  "type": "node",
+  "id": 298105787,
+  "lat": 49.2362892,
+  "lon": 16.6278655
+},
+{
+  "type": "node",
+  "id": 349280612,
+  "lat": 49.2504259,
+  "lon": 16.5886234
+},
+{
+  "type": "node",
+  "id": 349280613,
+  "lat": 49.2504686,
+  "lon": 16.5889842
+},
+{
+  "type": "node",
+  "id": 349281158,
+  "lat": 49.2500148,
+  "lon": 16.5890529
+},
+{
+  "type": "node",
+  "id": 349281160,
+  "lat": 49.2499868,
+  "lon": 16.5887096
+},
+{
+  "type": "node",
+  "id": 298106076,
+  "lat": 49.2474134,
+  "lon": 16.6161123
+},
+{
+  "type": "node",
+  "id": 298106077,
+  "lat": 49.2474760,
+  "lon": 16.6159759
+},
+{
+  "type": "node",
+  "id": 298106078,
+  "lat": 49.2476558,
+  "lon": 16.6161464
+},
+{
+  "type": "node",
+  "id": 298106079,
+  "lat": 49.2475830,
+  "lon": 16.6163036
+},
+{
+  "type": "node",
+  "id": 3981761271,
+  "lat": 49.2474651,
+  "lon": 16.6161740
+},
+{
+  "type": "node",
+  "id": 3751950722,
+  "lat": 49.2911552,
+  "lon": 16.6302789
+},
+{
+  "type": "node",
+  "id": 3751950723,
+  "lat": 49.2911631,
+  "lon": 16.6304328
+},
+{
+  "type": "node",
+  "id": 3751951326,
+  "lat": 49.2912311,
+  "lon": 16.6301637
+},
+{
+  "type": "node",
+  "id": 3751951329,
+  "lat": 49.2913457,
+  "lon": 16.6304679
+},
+{
+  "type": "node",
+  "id": 3751951330,
+  "lat": 49.2913726,
+  "lon": 16.6301298
+},
+{
+  "type": "node",
+  "id": 368344497,
+  "lat": 49.2025864,
+  "lon": 16.6770314
+},
+{
+  "type": "node",
+  "id": 368344498,
+  "lat": 49.2024516,
+  "lon": 16.6771145
+},
+{
+  "type": "node",
+  "id": 368344499,
+  "lat": 49.2025816,
+  "lon": 16.6775760
+},
+{
+  "type": "node",
+  "id": 368344500,
+  "lat": 49.2027138,
+  "lon": 16.6774876
+},
+{
+  "type": "node",
+  "id": 368344504,
+  "lat": 49.2026494,
+  "lon": 16.6775352
+},
+{
+  "type": "node",
+  "id": 6964899551,
+  "lat": 49.2026633,
+  "lon": 16.6773066
+},
+{
+  "type": "node",
+  "id": 6964899552,
+  "lat": 49.2026263,
+  "lon": 16.6775490
+}
+
+  ]
+}
