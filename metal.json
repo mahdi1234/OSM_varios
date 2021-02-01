@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-31T03:30:03Z",
-    "timestamp_areas_base": "2021-01-31T02:31:03Z",
+    "timestamp_osm_base": "2021-02-01T03:31:02Z",
+    "timestamp_areas_base": "2021-02-01T02:40:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -674,6 +674,21 @@
     "recycling:scrap_metal": "yes",
     "recycling:small_appliances": "yes",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1763230195,
+  "lat": 49.5467096,
+  "lon": 18.2113688,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container",
+    "source": "survey"
   }
 },
 {
@@ -2184,6 +2199,20 @@
     "recycling:plastic": "yes",
     "recycling:plastic_bottles": "yes",
     "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4968220708,
+  "lat": 48.8327621,
+  "lon": 16.9775793,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
     "recycling:scrap_metal": "yes",
     "recycling_type": "container"
   }

@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-31T03:41:03Z",
-    "timestamp_areas_base": "2021-01-31T03:36:03Z",
+    "timestamp_osm_base": "2021-02-01T03:42:02Z",
+    "timestamp_areas_base": "2021-02-01T02:40:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7952,6 +7952,18 @@
   "tags": {
     "amenity": "recycling",
     "recycling:electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8380599243,
+  "lat": 50.1421812,
+  "lon": 16.3080280,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }
 },
