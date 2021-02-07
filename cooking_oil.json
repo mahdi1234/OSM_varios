@@ -233,6 +233,21 @@
 },
 {
   "type": "node",
+  "id": 2621711314,
+  "lat": 49.4814113,
+  "lon": 16.7623643,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2637000589,
   "lat": 49.1350150,
   "lon": 17.0473157,
