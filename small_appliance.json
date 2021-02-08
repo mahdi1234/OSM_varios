@@ -1850,8 +1850,8 @@
 {
   "type": "node",
   "id": 3367016404,
-  "lat": 50.0747824,
-  "lon": 14.4899657,
+  "lat": 50.0747990,
+  "lon": 14.4899295,
   "tags": {
     "amenity": "recycling",
     "recycling:batteries": "yes",
@@ -3881,6 +3881,20 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5024620415,
+  "lat": 49.3905376,
+  "lon": 15.5758093,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }
 },
@@ -8085,6 +8099,17 @@
     "recycling:fluorescent_tubes": "yes",
     "recycling:low_energy_bulbs": "yes",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8401264845,
+  "lat": 49.3097093,
+  "lon": 18.1152605,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
   }
 },
 {
