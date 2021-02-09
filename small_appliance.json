@@ -304,6 +304,22 @@
 },
 {
   "type": "node",
+  "id": 1381644530,
+  "lat": 50.0500426,
+  "lon": 14.3459457,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:cans": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1382175746,
   "lat": 50.0871155,
   "lon": 14.3398480,
@@ -8108,6 +8124,51 @@
   "lon": 18.1152605,
   "tags": {
     "amenity": "recycling",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8404508802,
+  "lat": 49.9963589,
+  "lon": 16.2280039,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8404560914,
+  "lat": 50.0026333,
+  "lon": 16.2122690,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8404591561,
+  "lat": 50.0069741,
+  "lon": 16.2237800,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }

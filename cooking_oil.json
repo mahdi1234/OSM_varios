@@ -199,6 +199,22 @@
 },
 {
   "type": "node",
+  "id": 2460326658,
+  "lat": 50.2269283,
+  "lon": 14.4841443,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2493961221,
   "lat": 50.2062786,
   "lon": 14.4781215,
