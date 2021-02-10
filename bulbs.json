@@ -87,6 +87,34 @@
 },
 {
   "type": "node",
+  "id": 2537088158,
+  "lat": 49.5093728,
+  "lon": 16.8281224,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2733297125,
   "lat": 49.2142763,
   "lon": 16.5862470,
@@ -355,6 +383,35 @@
     "recycling:scrap_metal": "yes",
     "recycling:small_appliances": "yes",
     "recycling:tyres": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6638761340,
+  "lat": 49.2546065,
+  "lon": 16.5115976,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr odpadů Rozdrojovice",
+    "opening_hours": "Mo-Th 07:00-09:00; Tu,Fr 07:00-09:00,16:00-19:00; Sa 11:00-14:00",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "yes",
     "recycling_type": "centre"
   }
 },
@@ -1771,6 +1828,39 @@
   }
 },
 {
+  "type": "way",
+  "id": 905014461,
+  "nodes": [
+    8404686830,
+    8404686831,
+    8404686832,
+    8404686833,
+    8404686830
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:tyres": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre",
+    "website": "https://www.velkebilovice.cz/4-sberny-dvur/d-2854"
+  }
+},
+{
   "type": "node",
   "id": 4680046357,
   "lat": 49.1629813,
@@ -2645,6 +2735,30 @@
   "id": 6964899552,
   "lat": 49.2026263,
   "lon": 16.6775490
+},
+{
+  "type": "node",
+  "id": 8404686830,
+  "lat": 48.8420195,
+  "lon": 16.9042250
+},
+{
+  "type": "node",
+  "id": 8404686831,
+  "lat": 48.8417547,
+  "lon": 16.9040029
+},
+{
+  "type": "node",
+  "id": 8404686832,
+  "lat": 48.8416198,
+  "lon": 16.9043662
+},
+{
+  "type": "node",
+  "id": 8404686833,
+  "lat": 48.8418875,
+  "lon": 16.9045983
 },
 {
   "type": "node",

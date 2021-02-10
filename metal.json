@@ -2788,6 +2788,35 @@
 },
 {
   "type": "node",
+  "id": 6441907362,
+  "lat": 48.9155823,
+  "lon": 17.1761403,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "centre",
+    "website": "https://www.ratiskovice.com/obec-2/sberny-dvur/"
+  }
+},
+{
+  "type": "node",
   "id": 6468731714,
   "lat": 49.2906767,
   "lon": 16.5782247,
@@ -7094,6 +7123,39 @@
   }
 },
 {
+  "type": "way",
+  "id": 905014461,
+  "nodes": [
+    8404686830,
+    8404686831,
+    8404686832,
+    8404686833,
+    8404686830
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:tyres": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre",
+    "website": "https://www.velkebilovice.cz/4-sberny-dvur/d-2854"
+  }
+},
+{
   "type": "relation",
   "id": 4120703,
   "members": [
@@ -8899,6 +8961,30 @@
   "id": 4006396199,
   "lat": 48.8345360,
   "lon": 16.8554628
+},
+{
+  "type": "node",
+  "id": 8404686830,
+  "lat": 48.8420195,
+  "lon": 16.9042250
+},
+{
+  "type": "node",
+  "id": 8404686831,
+  "lat": 48.8417547,
+  "lon": 16.9040029
+},
+{
+  "type": "node",
+  "id": 8404686832,
+  "lat": 48.8416198,
+  "lon": 16.9043662
+},
+{
+  "type": "node",
+  "id": 8404686833,
+  "lat": 48.8418875,
+  "lon": 16.9045983
 },
 {
   "type": "node",
