@@ -43,17 +43,6 @@
 },
 {
   "type": "node",
-  "id": 1397178402,
-  "lat": 49.0698306,
-  "lon": 17.4625435,
-  "tags": {
-    "amenity": "vending_machine",
-    "name": "Topagra - čerstvé mléko",
-    "vending": "milk"
-  }
-},
-{
-  "type": "node",
   "id": 1596842096,
   "lat": 49.2289185,
   "lon": 17.6935023,

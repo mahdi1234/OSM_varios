@@ -7282,7 +7282,10 @@
   "type": "node",
   "id": 7835431095,
   "lat": 48.9735669,
-  "lon": 14.4919478
+  "lon": 14.4919478,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -7540,7 +7543,10 @@
   "type": "node",
   "id": 5322777443,
   "lat": 49.3890709,
-  "lon": 14.6803261
+  "lon": 14.6803261,
+  "tags": {
+    "entrance": "yes"
+  }
 },
 {
   "type": "node",
@@ -7960,7 +7966,10 @@
   "type": "node",
   "id": 1897279218,
   "lat": 49.5924667,
-  "lon": 15.5930562
+  "lon": 15.5930562,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8044,7 +8053,11 @@
   "type": "node",
   "id": 480675765,
   "lat": 49.1741140,
-  "lon": 16.5583732
+  "lon": 16.5583732,
+  "tags": {
+    "barrier": "gate",
+    "source": "survey;cuzk:km"
+  }
 },
 {
   "type": "node",
@@ -8188,7 +8201,10 @@
   "type": "node",
   "id": 1868452902,
   "lat": 49.2238265,
-  "lon": 16.5194631
+  "lon": 16.5194631,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8230,7 +8246,10 @@
   "type": "node",
   "id": 5784558353,
   "lat": 49.2270179,
-  "lon": 16.5352679
+  "lon": 16.5352679,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8320,7 +8339,10 @@
   "type": "node",
   "id": 3841189529,
   "lat": 49.1518273,
-  "lon": 16.6519592
+  "lon": 16.6519592,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8380,7 +8402,10 @@
   "type": "node",
   "id": 6876132366,
   "lat": 49.1769393,
-  "lon": 16.6337718
+  "lon": 16.6337718,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8584,7 +8609,10 @@
   "type": "node",
   "id": 6556283154,
   "lat": 49.1976445,
-  "lon": 16.6272121
+  "lon": 16.6272121,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8662,7 +8690,10 @@
   "type": "node",
   "id": 8162904634,
   "lat": 49.2044671,
-  "lon": 16.6275704
+  "lon": 16.6275704,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8836,7 +8867,10 @@
   "type": "node",
   "id": 3981761271,
   "lat": 49.2474651,
-  "lon": 16.6161740
+  "lon": 16.6161740,
+  "tags": {
+    "entrance": "yes"
+  }
 },
 {
   "type": "node",
@@ -8896,7 +8930,10 @@
   "type": "node",
   "id": 368344504,
   "lat": 49.2026494,
-  "lon": 16.6775352
+  "lon": 16.6775352,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -8968,7 +9005,14 @@
   "type": "node",
   "id": 4006396198,
   "lat": 48.8343376,
-  "lon": 16.8556633
+  "lon": 16.8556633,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes"
+  }
 },
 {
   "type": "node",
@@ -9328,7 +9372,10 @@
   "type": "node",
   "id": 1465240698,
   "lat": 49.5435204,
-  "lon": 18.2297911
+  "lon": 18.2297911,
+  "tags": {
+    "barrier": "entrance"
+  }
 },
 {
   "type": "node",
@@ -9700,7 +9747,10 @@
   "type": "node",
   "id": 2519982327,
   "lat": 49.6341272,
-  "lon": 18.1404214
+  "lon": 18.1404214,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -9724,7 +9774,10 @@
   "type": "node",
   "id": 3404343532,
   "lat": 49.6343664,
-  "lon": 18.1411075
+  "lon": 18.1411075,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -9802,7 +9855,10 @@
   "type": "node",
   "id": 3400805960,
   "lat": 49.6444700,
-  "lon": 18.1482213
+  "lon": 18.1482213,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -9814,7 +9870,10 @@
   "type": "node",
   "id": 3400805962,
   "lat": 49.6449382,
-  "lon": 18.1481702
+  "lon": 18.1481702,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -9964,7 +10023,11 @@
   "type": "node",
   "id": 5695262836,
   "lat": 49.6422823,
-  "lon": 18.3539890
+  "lon": 18.3539890,
+  "tags": {
+    "access": "customers",
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10150,7 +10213,14 @@
   "type": "node",
   "id": 2951395142,
   "lat": 49.6260849,
-  "lon": 18.4567190
+  "lon": 18.4567190,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes"
+  }
 },
 {
   "type": "node",
@@ -10180,13 +10250,21 @@
   "type": "node",
   "id": 4623975565,
   "lat": 49.6358816,
-  "lon": 18.4560392
+  "lon": 18.4560392,
+  "tags": {
+    "access": "customers",
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
   "id": 4623975566,
   "lat": 49.6357881,
-  "lon": 18.4562681
+  "lon": 18.4562681,
+  "tags": {
+    "access": "customers",
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10270,7 +10348,10 @@
   "type": "node",
   "id": 7006045261,
   "lat": 50.0842266,
-  "lon": 14.1358373
+  "lon": 14.1358373,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10534,7 +10615,11 @@
   "type": "node",
   "id": 5270424945,
   "lat": 50.1027675,
-  "lon": 14.4663577
+  "lon": 14.4663577,
+  "tags": {
+    "access": "customers",
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10582,31 +10667,50 @@
   "type": "node",
   "id": 308482385,
   "lat": 49.9951668,
-  "lon": 14.6504365
+  "lon": 14.6504365,
+  "tags": {
+    "email": "sbernaricany@seznam.cz",
+    "phone": "+420 323 603 362"
+  }
 },
 {
   "type": "node",
   "id": 4358774651,
   "lat": 49.9948192,
-  "lon": 14.6507796
+  "lon": 14.6507796,
+  "tags": {
+    "email": "sbernaricany@seznam.cz",
+    "phone": "+420 323 603 362"
+  }
 },
 {
   "type": "node",
   "id": 4358774652,
   "lat": 49.9949720,
-  "lon": 14.6509266
+  "lon": 14.6509266,
+  "tags": {
+    "email": "sbernaricany@seznam.cz",
+    "phone": "+420 323 603 362"
+  }
 },
 {
   "type": "node",
   "id": 4358774653,
   "lat": 49.9950140,
-  "lon": 14.6502895
+  "lon": 14.6502895,
+  "tags": {
+    "email": "sbernaricany@seznam.cz",
+    "phone": "+420 323 603 362"
+  }
 },
 {
   "type": "node",
   "id": 308529624,
   "lat": 50.0488448,
-  "lon": 14.4740009
+  "lon": 14.4740009,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10666,7 +10770,10 @@
   "type": "node",
   "id": 3780133280,
   "lat": 50.0877824,
-  "lon": 14.6144612
+  "lon": 14.6144612,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10744,7 +10851,11 @@
   "type": "node",
   "id": 2787690834,
   "lat": 50.1310689,
-  "lon": 14.7287130
+  "lon": 14.7287130,
+  "tags": {
+    "access": "delivery",
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10792,7 +10903,10 @@
   "type": "node",
   "id": 2477470690,
   "lat": 50.1408033,
-  "lon": 14.7962553
+  "lon": 14.7962553,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -10834,7 +10948,12 @@
   "type": "node",
   "id": 3530459982,
   "lat": 50.1810690,
-  "lon": 15.0287199
+  "lon": 15.0287199,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes"
+  }
 },
 {
   "type": "node",
@@ -11152,7 +11271,10 @@
   "type": "node",
   "id": 7820435913,
   "lat": 50.4342946,
-  "lon": 14.9121882
+  "lon": 14.9121882,
+  "tags": {
+    "barrier": "gate"
+  }
 },
 {
   "type": "node",
@@ -11877,6 +11999,10 @@
 {
   "type": "way",
   "id": 230724943,
+  "center": {
+    "lat": 49.6447147,
+    "lon": 18.1483348
+  },
   "nodes": [
     2423096818,
     2391813518,
@@ -11894,13 +12020,21 @@
 {
   "type": "way",
   "id": 234002832,
+  "center": {
+    "lat": 49.6445442,
+    "lon": 18.1482973
+  },
   "nodes": [
     2423096815,
     2423096787,
     2423096861,
     2423096851,
     2423096815
-  ]
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1"
+  }
 }
 
   ]
