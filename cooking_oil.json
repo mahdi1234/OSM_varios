@@ -2587,6 +2587,47 @@
 },
 {
   "type": "way",
+  "id": 219448513,
+  "nodes": [
+    2286058503,
+    2286058502,
+    2286058504,
+    2286058506,
+    2286058501,
+    2286058505,
+    2286058503
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu,Th 12:30-17:00; Sa 09:00-14:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "centre",
+    "website": "https://www.hrusovanyubrna.cz/odpadove-hospodarstvi/sberny-dvur-odpadu"
+  }
+},
+{
+  "type": "way",
   "id": 279663842,
   "nodes": [
     2838697112,
@@ -3165,6 +3206,42 @@
     "recycling_type": "centre",
     "website": "https://www.velkebilovice.cz/4-sberny-dvur/d-2854"
   }
+},
+{
+  "type": "node",
+  "id": 2286058504,
+  "lat": 49.0426574,
+  "lon": 16.5936979
+},
+{
+  "type": "node",
+  "id": 2286058506,
+  "lat": 49.0424533,
+  "lon": 16.5936283
+},
+{
+  "type": "node",
+  "id": 2286058501,
+  "lat": 49.0422546,
+  "lon": 16.5938992
+},
+{
+  "type": "node",
+  "id": 2286058502,
+  "lat": 49.0426117,
+  "lon": 16.5943390
+},
+{
+  "type": "node",
+  "id": 2286058503,
+  "lat": 49.0421667,
+  "lon": 16.5942426
+},
+{
+  "type": "node",
+  "id": 2286058505,
+  "lat": 49.0423302,
+  "lon": 16.5939743
 },
 {
   "type": "node",

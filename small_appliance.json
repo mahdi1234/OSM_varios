@@ -8345,6 +8345,20 @@
   }
 },
 {
+  "type": "node",
+  "id": 8423431040,
+  "lat": 50.6780417,
+  "lon": 15.9747192,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
@@ -9074,6 +9088,47 @@
     "recycling:shoes": "yes",
     "recycling:small_appliances": "yes",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 219448513,
+  "nodes": [
+    2286058503,
+    2286058502,
+    2286058504,
+    2286058506,
+    2286058501,
+    2286058505,
+    2286058503
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu,Th 12:30-17:00; Sa 09:00-14:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:rubble": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "centre",
+    "website": "https://www.hrusovanyubrna.cz/odpadove-hospodarstvi/sberny-dvur-odpadu"
   }
 },
 {
@@ -11082,6 +11137,42 @@
   "id": 3985018266,
   "lat": 49.3844828,
   "lon": 14.7004357
+},
+{
+  "type": "node",
+  "id": 2286058504,
+  "lat": 49.0426574,
+  "lon": 16.5936979
+},
+{
+  "type": "node",
+  "id": 2286058506,
+  "lat": 49.0424533,
+  "lon": 16.5936283
+},
+{
+  "type": "node",
+  "id": 2286058501,
+  "lat": 49.0422546,
+  "lon": 16.5938992
+},
+{
+  "type": "node",
+  "id": 2286058502,
+  "lat": 49.0426117,
+  "lon": 16.5943390
+},
+{
+  "type": "node",
+  "id": 2286058503,
+  "lat": 49.0421667,
+  "lon": 16.5942426
+},
+{
+  "type": "node",
+  "id": 2286058505,
+  "lat": 49.0423302,
+  "lon": 16.5939743
 },
 {
   "type": "node",
