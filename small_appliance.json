@@ -8359,6 +8359,20 @@
   }
 },
 {
+  "type": "node",
+  "id": 8431169757,
+  "lat": 49.4794995,
+  "lon": 17.8167539,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
