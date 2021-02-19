@@ -2364,6 +2364,23 @@
 },
 {
   "type": "node",
+  "id": 8435349484,
+  "lat": 49.7380654,
+  "lon": 17.2618845,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 3925877653,
   "lat": 49.7376423,
   "lon": 17.3469032,
