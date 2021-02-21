@@ -1013,6 +1013,31 @@
 },
 {
   "type": "node",
+  "id": 2131268865,
+  "lat": 49.4123710,
+  "lon": 16.5804237,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2196243659,
   "lat": 50.1173307,
   "lon": 14.5075417,
@@ -2839,6 +2864,26 @@
     "recycling:plastic_bottles": "yes",
     "recycling:plastic_packaging": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4168120580,
+  "lat": 50.1884141,
+  "lon": 15.8303084,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_electrical_appliances": "yes",
     "recycling_type": "container"
   }
 },

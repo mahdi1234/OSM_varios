@@ -234,6 +234,17 @@
     "payment:coins": "yes",
     "vending": "milk;bottles"
   }
+},
+{
+  "type": "node",
+  "id": 8441036692,
+  "lat": 49.4144053,
+  "lon": 16.5827209,
+  "tags": {
+    "amenity": "vending_machine",
+    "payment:coins": "yes",
+    "vending": "milk"
+  }
 }
 
   ]
