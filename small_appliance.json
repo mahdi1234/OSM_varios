@@ -8547,6 +8547,64 @@
   }
 },
 {
+  "type": "node",
+  "id": 8452117086,
+  "lat": 49.3330021,
+  "lon": 17.2173277,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8453000230,
+  "lat": 50.6956438,
+  "lon": 15.2744143,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "find on www.zasada.cz",
+    "opening_hours:covid19": "find on www.zasada.cz",
+    "operator": "Městys Zásada",
+    "recycling:bulbs": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:electronics": "yes",
+    "recycling:toner": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8453998074,
+  "lat": 49.2676287,
+  "lon": 13.8839976,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8455167253,
+  "lat": 49.5807363,
+  "lon": 13.3276664,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
