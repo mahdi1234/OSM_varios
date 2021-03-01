@@ -4036,6 +4036,21 @@
 },
 {
   "type": "node",
+  "id": 5000064728,
+  "lat": 49.5707680,
+  "lon": 15.9467258,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 5024620415,
   "lat": 49.3905376,
   "lon": 15.5758093,
