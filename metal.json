@@ -1277,6 +1277,22 @@
 },
 {
   "type": "node",
+  "id": 3908271959,
+  "lat": 49.1646208,
+  "lon": 16.7276236,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1526310016,
   "lat": 49.2119517,
   "lon": 16.5791274,
