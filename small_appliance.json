@@ -8706,6 +8706,18 @@
 },
 {
   "type": "node",
+  "id": 8467295753,
+  "lat": 49.1694617,
+  "lon": 16.7288676,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8482745842,
   "lat": 50.2353170,
   "lon": 15.6348270,
