@@ -1534,6 +1534,22 @@
 },
 {
   "type": "node",
+  "id": 2628889191,
+  "lat": 49.2183365,
+  "lon": 16.5749001,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2642512916,
   "lat": 49.8566391,
   "lon": 14.4019739,
@@ -4851,6 +4867,31 @@
     "amenity": "recycling",
     "recycling:batteries": "yes",
     "recycling:electrical_items": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8494287708,
+  "lat": 50.2204300,
+  "lon": 14.6252049,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "opening_hours:covid19": "same",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
     "recycling_type": "container"
   }
 },
