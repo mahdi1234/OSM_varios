@@ -8653,23 +8653,6 @@
 },
 {
   "type": "node",
-  "id": 8453000230,
-  "lat": 50.6956438,
-  "lon": 15.2744143,
-  "tags": {
-    "amenity": "recycling",
-    "opening_hours": "find on www.zasada.cz",
-    "opening_hours:covid19": "find on www.zasada.cz",
-    "operator": "Městys Zásada",
-    "recycling:bulbs": "yes",
-    "recycling:electrical_items": "yes",
-    "recycling:electronics": "yes",
-    "recycling:toner": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 8453998074,
   "lat": 49.2676287,
   "lon": 13.8839976,
@@ -8808,6 +8791,20 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8502687822,
+  "lat": 49.8454535,
+  "lon": 15.9997354,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
     "recycling_type": "container"
   }
 },

@@ -3711,11 +3711,10 @@
 {
   "type": "node",
   "id": 8461510585,
-  "lat": 50.0619082,
-  "lon": 14.6474026,
+  "lat": 50.0618918,
+  "lon": 14.6478318,
   "tags": {
     "amenity": "recycling",
-    "fixme": "position approximate",
     "recycling:beverage_cartons": "yes",
     "recycling:cans": "yes",
     "recycling:cardboard": "yes",
