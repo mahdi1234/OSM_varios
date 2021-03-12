@@ -6818,6 +6818,23 @@
 },
 {
   "type": "node",
+  "id": 7384320685,
+  "lat": 49.9538934,
+  "lon": 15.2695165,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 7389986362,
   "lat": 49.9754162,
   "lon": 14.5235107,
