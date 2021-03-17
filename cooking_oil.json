@@ -1029,6 +1029,26 @@
 },
 {
   "type": "node",
+  "id": 7037813449,
+  "lat": 50.0711775,
+  "lon": 14.6794167,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container",
+    "ref": "0021/013",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
   "id": 7086977037,
   "lat": 49.3264978,
   "lon": 16.8561133,
