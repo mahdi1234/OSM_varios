@@ -7465,14 +7465,15 @@
 {
   "type": "node",
   "id": 8009662201,
-  "lat": 49.2291803,
-  "lon": 13.5147285,
+  "lat": 49.2291777,
+  "lon": 13.5147261,
   "tags": {
     "amenity": "recycling",
     "recycling:clothes": "yes",
     "recycling:glass": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
     "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }
@@ -8866,6 +8867,20 @@
   "id": 8520762932,
   "lat": 50.0388501,
   "lon": 16.1624107,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8527713894,
+  "lat": 50.4142172,
+  "lon": 15.8503760,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
