@@ -2668,6 +2668,20 @@
 },
 {
   "type": "node",
+  "id": 8571704902,
+  "lat": 49.5934572,
+  "lon": 18.2579017,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8487261061,
   "lat": 49.6206045,
   "lon": 18.3676675,
@@ -3046,6 +3060,19 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8571358974,
+  "lat": 50.1980391,
+  "lon": 14.2310111,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:drinking_cartons": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
     "recycling_type": "container"
   }
 },
