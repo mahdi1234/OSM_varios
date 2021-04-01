@@ -4902,6 +4902,24 @@
 },
 {
   "type": "node",
+  "id": 8450175836,
+  "lat": 50.1873039,
+  "lon": 15.8367639,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8461510612,
   "lat": 50.0615892,
   "lon": 14.6414669,
@@ -4976,6 +4994,47 @@
     "recycling:plastic": "yes",
     "recycling:small_electrical_appliances": "yes",
     "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8578229029,
+  "lat": 49.1639011,
+  "lon": 16.7309895,
+  "tags": {
+    "addr:city": "Šlapanice",
+    "addr:country": "CZ",
+    "addr:housenumber": "1157/36",
+    "addr:postcode": "66451",
+    "addr:street": "Dlouhá",
+    "amenity": "recycling",
+    "name": "Středisko sběrného odpadu Dlouhá",
+    "opening_hours": "Sa 09:00-12:00",
+    "operator": "KTS Ekologie, s.r.o.",
+    "phone": "604524789",
+    "recycling:batteries": "yes",
+    "recycling:books": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "no",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre",
+    "website": "www.kts-ekologie.cz",
+    "wheelchair": "yes"
   }
 },
 {
@@ -7851,6 +7910,53 @@
   }
 },
 {
+  "type": "way",
+  "id": 924101747,
+  "nodes": [
+    8578210127,
+    1035780486,
+    1035780469,
+    8578210128,
+    8578210127
+  ],
+  "tags": {
+    "addr:city": "Šlapanice",
+    "addr:country": "CZ",
+    "addr:postcode": "66451",
+    "addr:street": "Zemědělská",
+    "amenity": "recycling",
+    "name": "Sběrné středisko odpadů - Zemědělská",
+    "opening_hours": "Mo,We 08:00-12:00,12:30-16:30; Tu,Th 09:00-12:00,12:30-18:00; Fr 08:00-12:00,12:30-15:30; Sa 09:00-12:00",
+    "operator": "KTS Ekologie, s.r.o.",
+    "phone": "603816128",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "no",
+    "recycling:books": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "centre",
+    "source": "mapbox;survey",
+    "website": "www.kts-ekologie.cz",
+    "wheelchair": "yes"
+  }
+},
+{
   "type": "node",
   "id": 398357534,
   "lat": 49.4380602,
@@ -8888,6 +8994,30 @@
   "id": 361737740,
   "lat": 49.1768478,
   "lon": 16.6824194
+},
+{
+  "type": "node",
+  "id": 1035780469,
+  "lat": 49.1694938,
+  "lon": 16.7346529
+},
+{
+  "type": "node",
+  "id": 1035780486,
+  "lat": 49.1690827,
+  "lon": 16.7340708
+},
+{
+  "type": "node",
+  "id": 8578210127,
+  "lat": 49.1694273,
+  "lon": 16.7335016
+},
+{
+  "type": "node",
+  "id": 8578210128,
+  "lat": 49.1698384,
+  "lon": 16.7340837
 },
 {
   "type": "node",
