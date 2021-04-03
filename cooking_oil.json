@@ -50,6 +50,23 @@
 },
 {
   "type": "node",
+  "id": 859900713,
+  "lat": 50.0590395,
+  "lon": 14.2876160,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:cans": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1343799792,
   "lat": 49.3660980,
   "lon": 16.2561517,
