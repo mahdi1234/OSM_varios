@@ -248,6 +248,23 @@
 },
 {
   "type": "node",
+  "id": 1240814215,
+  "lat": 50.0710461,
+  "lon": 14.4643384,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1258949714,
   "lat": 49.0314274,
   "lon": 14.4982024,
@@ -4256,6 +4273,22 @@
 },
 {
   "type": "node",
+  "id": 7196054864,
+  "lat": 50.1266998,
+  "lon": 15.8571450,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:glass": "yes",
+    "recycling:oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
   "id": 7200618071,
   "lat": 48.9790494,
   "lon": 14.4740483,
@@ -6949,11 +6982,17 @@
     4396393166,
     4396393176,
     4396393173,
+    8592360264,
+    8592360263,
+    8592360261,
+    8592360262,
+    8592360265,
     4396393163,
     4396393166
   ],
   "tags": {
     "amenity": "recycling",
+    "barrier": "fence",
     "name": "Sběrný dvůr Dobrá",
     "recycling:batteries": "yes",
     "recycling:cardboard": "yes",
@@ -10706,6 +10745,40 @@
   "id": 4396393176,
   "lat": 49.6759780,
   "lon": 18.4127651
+},
+{
+  "type": "node",
+  "id": 8592360261,
+  "lat": 49.6757791,
+  "lon": 18.4130217,
+  "tags": {
+    "access": "customers",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 8592360262,
+  "lat": 49.6757576,
+  "lon": 18.4130115
+},
+{
+  "type": "node",
+  "id": 8592360263,
+  "lat": 49.6757988,
+  "lon": 18.4130310
+},
+{
+  "type": "node",
+  "id": 8592360264,
+  "lat": 49.6758314,
+  "lon": 18.4131221
+},
+{
+  "type": "node",
+  "id": 8592360265,
+  "lat": 49.6756938,
+  "lon": 18.4130792
 },
 {
   "type": "node",

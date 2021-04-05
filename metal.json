@@ -6815,11 +6815,17 @@
     4396393166,
     4396393176,
     4396393173,
+    8592360264,
+    8592360263,
+    8592360261,
+    8592360262,
+    8592360265,
     4396393163,
     4396393166
   ],
   "tags": {
     "amenity": "recycling",
+    "barrier": "fence",
     "name": "Sběrný dvůr Dobrá",
     "recycling:batteries": "yes",
     "recycling:cardboard": "yes",
