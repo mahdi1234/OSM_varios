@@ -2269,6 +2269,23 @@
 },
 {
   "type": "node",
+  "id": 3895762557,
+  "lat": 50.1890774,
+  "lon": 15.8324699,
+  "tags": {
+    "amenity": "waste_disposal",
+    "location": "overground",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 3896304477,
   "lat": 50.2020260,
   "lon": 15.8133914,
@@ -3203,6 +3220,22 @@
     "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
     "recycling:waste": "no",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5082147028,
+  "lat": 49.5810905,
+  "lon": 17.2338463,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
     "recycling_type": "container"
   }
 },
