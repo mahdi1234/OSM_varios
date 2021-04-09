@@ -5104,6 +5104,22 @@
   }
 },
 {
+  "type": "node",
+  "id": 8605669168,
+  "lat": 50.0732583,
+  "lon": 15.8045577,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
