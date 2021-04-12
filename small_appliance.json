@@ -4176,6 +4176,22 @@
 },
 {
   "type": "node",
+  "id": 4995769271,
+  "lat": 49.5568545,
+  "lon": 15.9380884,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4996781876,
   "lat": 49.5673592,
   "lon": 15.9309981,
@@ -4219,6 +4235,69 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5001124337,
+  "lat": 49.5693725,
+  "lon": 15.9489341,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5001131476,
+  "lat": 49.5629388,
+  "lon": 15.9468351,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5001157286,
+  "lat": 49.5641932,
+  "lon": 15.9535846,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5001194961,
+  "lat": 49.5643911,
+  "lon": 15.9425150,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
     "recycling_type": "container"
   }
 },

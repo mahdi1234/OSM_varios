@@ -1742,7 +1742,9 @@
   "tags": {
     "amenity": "recycling",
     "name": "Kovošrot",
-    "recycling:scrap_metal": "yes"
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "centre",
+    "website": "https://metalsrot.cz/provozy/"
   }
 },
 {
