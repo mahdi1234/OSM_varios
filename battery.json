@@ -3333,6 +3333,22 @@
 },
 {
   "type": "node",
+  "id": 5003324802,
+  "lat": 49.5447589,
+  "lon": 15.9328178,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 5026449786,
   "lat": 49.7898522,
   "lon": 14.6951518,
