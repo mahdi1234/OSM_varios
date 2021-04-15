@@ -2514,6 +2514,26 @@
 },
 {
   "type": "node",
+  "id": 1909715322,
+  "lat": 49.5101680,
+  "lon": 17.4791175,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "opening_hours:covid19": "open",
+    "recycling:bio_waste": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electronics": "yes",
+    "recycling:glass": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8435349484,
   "lat": 49.7380654,
   "lon": 17.2618845,
