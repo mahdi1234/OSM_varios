@@ -621,6 +621,25 @@
 },
 {
   "type": "node",
+  "id": 4195898677,
+  "lat": 49.2659018,
+  "lon": 14.0040360,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "We 16:00-18:00, Su 16:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4244258189,
   "lat": 49.1813279,
   "lon": 16.6904259,

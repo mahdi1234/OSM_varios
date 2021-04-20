@@ -2510,6 +2510,25 @@
 },
 {
   "type": "node",
+  "id": 4195898677,
+  "lat": 49.2659018,
+  "lon": 14.0040360,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "We 16:00-18:00, Su 16:00-18:00",
+    "recycling:batteries": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4219582264,
   "lat": 50.1437592,
   "lon": 15.1166894,
@@ -5319,6 +5338,31 @@
     "recycling:batteries": "yes",
     "recycling:clothes": "yes",
     "recycling:electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8644379169,
+  "lat": 49.0922133,
+  "lon": 17.1298813,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }
 },
