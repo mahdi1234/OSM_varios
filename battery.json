@@ -4717,6 +4717,7 @@
     "recycling:electrical_appliances": "yes",
     "recycling:glass": "yes",
     "recycling:glass_bottles": "yes",
+    "recycling:organic": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:plastic_bottles": "yes",
@@ -5363,6 +5364,22 @@
     "recycling:scrap_metal": "yes",
     "recycling:shoes": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8660305827,
+  "lat": 49.6684715,
+  "lon": 16.2530888,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
     "recycling_type": "container"
   }
 },
