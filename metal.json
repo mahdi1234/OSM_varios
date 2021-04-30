@@ -3599,6 +3599,24 @@
 },
 {
   "type": "node",
+  "id": 5334065065,
+  "lat": 50.0646862,
+  "lon": 14.4081201,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 2815305294,
   "lat": 50.0522376,
   "lon": 14.4538835,
