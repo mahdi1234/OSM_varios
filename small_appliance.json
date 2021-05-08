@@ -7741,6 +7741,24 @@
 },
 {
   "type": "node",
+  "id": 7993475581,
+  "lat": 50.2417597,
+  "lon": 15.9538822,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 7997533159,
   "lat": 50.0327007,
   "lon": 15.7628234,
