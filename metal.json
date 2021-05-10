@@ -2055,6 +2055,19 @@
 },
 {
   "type": "node",
+  "id": 8715085201,
+  "lat": 48.8004332,
+  "lon": 16.8041233,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4968220708,
   "lat": 48.8327621,
   "lon": 16.9775793,
