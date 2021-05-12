@@ -2814,8 +2814,8 @@
 {
   "type": "node",
   "id": 3966460038,
-  "lat": 49.7121960,
-  "lon": 15.6635626,
+  "lat": 49.7123295,
+  "lon": 15.6635724,
   "tags": {
     "amenity": "recycling",
     "recycling:batteries": "yes",
@@ -6356,6 +6356,21 @@
     "recycling:glass_bottles": "yes",
     "recycling:plastic": "yes",
     "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6959170215,
+  "lat": 48.8065430,
+  "lon": 14.3177717,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Služby města Český Krumlov s.r.o.",
+    "recycling:bio_waste": "yes",
+    "recycling:biodegradable": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_items": "yes",
     "recycling_type": "container"
   }
 },
@@ -10099,6 +10114,33 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8722328908,
+  "lat": 49.9669074,
+  "lon": 16.4099874,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8723043497,
+  "lat": 49.9220998,
+  "lon": 17.0843044,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
     "recycling_type": "container"
   }
 },

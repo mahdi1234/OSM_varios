@@ -2317,8 +2317,8 @@
 {
   "type": "node",
   "id": 3966460038,
-  "lat": 49.7121960,
-  "lon": 15.6635626,
+  "lat": 49.7123295,
+  "lon": 15.6635724,
   "tags": {
     "amenity": "recycling",
     "recycling:batteries": "yes",
