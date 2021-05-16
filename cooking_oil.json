@@ -1887,6 +1887,30 @@
 },
 {
   "type": "node",
+  "id": 7985766732,
+  "lat": 48.9793708,
+  "lon": 14.3959842,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:books": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8063385424,
   "lat": 49.2976432,
   "lon": 16.8922999,
