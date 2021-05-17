@@ -184,6 +184,7 @@
   "lon": 13.4558184,
   "tags": {
     "amenity": "recycling",
+    "recycling:electrical_appliances": "yes",
     "recycling:glass": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
@@ -515,6 +516,29 @@
     "recycling:plastic_bottles": "yes",
     "recycling:plastic_packaging": "yes",
     "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8736595647,
+  "lat": 49.0322892,
+  "lon": 16.1065007,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
     "recycling_type": "container"
   }
 },
@@ -7059,7 +7083,6 @@
     4053537065,
     4053537062,
     5695262836,
-    4053537064,
     1332261079,
     1332260923,
     284995889,
