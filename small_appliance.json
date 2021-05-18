@@ -10203,6 +10203,34 @@
   }
 },
 {
+  "type": "node",
+  "id": 8737718330,
+  "lat": 49.9951906,
+  "lon": 16.8815204,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8737791577,
+  "lat": 49.9789397,
+  "lon": 16.8754392,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
