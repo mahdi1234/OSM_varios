@@ -10231,6 +10231,32 @@
   }
 },
 {
+  "type": "node",
+  "id": 8742626364,
+  "lat": 50.2020353,
+  "lon": 15.9926894,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8742657746,
+  "lat": 49.7173023,
+  "lon": 18.0383047,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:electrical_items": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
