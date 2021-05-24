@@ -2571,6 +2571,68 @@
 },
 {
   "type": "node",
+  "id": 8757470834,
+  "lat": 49.8684190,
+  "lon": 16.8791641,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8757486056,
+  "lat": 49.8819312,
+  "lon": 16.8641424,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8757418090,
+  "lat": 49.8443018,
+  "lon": 16.9524045,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8757318363,
+  "lat": 49.8892635,
+  "lon": 16.9953138,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4060076613,
   "lat": 49.5822521,
   "lon": 17.2419164,

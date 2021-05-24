@@ -2786,6 +2786,23 @@
   }
 },
 {
+  "type": "node",
+  "id": 8758059539,
+  "lat": 50.5624079,
+  "lon": 15.4988584,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
