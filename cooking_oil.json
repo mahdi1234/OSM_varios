@@ -2803,6 +2803,102 @@
   }
 },
 {
+  "type": "node",
+  "id": 8761792871,
+  "lat": 50.4479591,
+  "lon": 15.1303491,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792872,
+  "lat": 50.4400762,
+  "lon": 15.1244710,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792873,
+  "lat": 50.4399963,
+  "lon": 15.1306462,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792878,
+  "lat": 50.4335579,
+  "lon": 15.1276696,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792879,
+  "lat": 50.4364682,
+  "lon": 15.1243074,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792889,
+  "lat": 50.4370729,
+  "lon": 15.1215139,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8761792890,
+  "lat": 50.4373958,
+  "lon": 15.1286285,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
