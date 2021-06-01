@@ -10297,6 +10297,19 @@
   }
 },
 {
+  "type": "node",
+  "id": 8787149293,
+  "lat": 49.4025706,
+  "lon": 16.7205750,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:batteries": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
