@@ -66,6 +66,24 @@
 },
 {
   "type": "node",
+  "id": 5629239166,
+  "lat": 48.8158254,
+  "lon": 14.3160663,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Služby města Český Krumlov s.r.o.",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 5661124632,
   "lat": 48.8283420,
   "lon": 14.3040051,
