@@ -7916,7 +7916,9 @@
   "tags": {
     "amenity": "recycling",
     "recycling:aluminium": "yes",
+    "recycling:cartons": "yes",
     "recycling:electrical_appliances": "yes",
+    "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling_type": "container"
   }
@@ -9808,6 +9810,21 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8558240372,
+  "lat": 49.1675545,
+  "lon": 16.5594201,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_electrical_appliances": "yes",
     "recycling_type": "container"
   }
 },
