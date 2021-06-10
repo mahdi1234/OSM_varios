@@ -1903,6 +1903,46 @@
   }
 },
 {
+  "type": "way",
+  "id": 951700885,
+  "nodes": [
+    8809005391,
+    8809005392,
+    8809005393,
+    8809005394,
+    8809005395,
+    8809005396,
+    8809005391
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "area:highway": "yes",
+    "mobile": "+420 778 082 908",
+    "opening_hours": "Sa 08:00-12:00",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:fluorescent_tubes": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:hazardous_waste": "yes",
+    "recycling:low_energy_bulbs": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
   "type": "node",
   "id": 2286058504,
   "lat": 49.0426574,
@@ -2865,6 +2905,42 @@
   "id": 8404686833,
   "lat": 48.8418875,
   "lon": 16.9045983
+},
+{
+  "type": "node",
+  "id": 8809005391,
+  "lat": 49.1421161,
+  "lon": 17.2279922
+},
+{
+  "type": "node",
+  "id": 8809005392,
+  "lat": 49.1419814,
+  "lon": 17.2277393
+},
+{
+  "type": "node",
+  "id": 8809005393,
+  "lat": 49.1419439,
+  "lon": 17.2277799
+},
+{
+  "type": "node",
+  "id": 8809005394,
+  "lat": 49.1419460,
+  "lon": 17.2278611
+},
+{
+  "type": "node",
+  "id": 8809005395,
+  "lat": 49.1418527,
+  "lon": 17.2281618
+},
+{
+  "type": "node",
+  "id": 8809005396,
+  "lat": 49.1419296,
+  "lon": 17.2282679
 },
 {
   "type": "node",
