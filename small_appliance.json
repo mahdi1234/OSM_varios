@@ -10690,6 +10690,18 @@
   }
 },
 {
+  "type": "node",
+  "id": 8827776912,
+  "lat": 49.2248078,
+  "lon": 17.8443363,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
