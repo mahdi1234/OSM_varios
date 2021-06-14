@@ -2521,8 +2521,8 @@
 {
   "type": "node",
   "id": 8365046487,
-  "lat": 49.2064085,
-  "lon": 16.4972691,
+  "lat": 49.2063288,
+  "lon": 16.4971847,
   "tags": {
     "amenity": "recycling",
     "mobile": "+420 607 414 142",
@@ -3135,6 +3135,30 @@
     "recycling:glass": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8829265418,
+  "lat": 48.8835794,
+  "lon": 14.3481891,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:books": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
     "recycling_type": "container"
   }
 },
