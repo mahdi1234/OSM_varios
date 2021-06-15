@@ -1051,9 +1051,14 @@
   "lon": 16.4971847,
   "tags": {
     "amenity": "recycling",
+    "email": "sbernydvur@astv.cz",
     "mobile": "+420 607 414 142",
     "name": "SSO Pod Kopcem",
     "opening_hours": "Tu-Sa 09:00-13:00,14:00-18:00",
+    "opening_hours:covid19": "same",
+    "operator": "SAKO Brno, a.s.",
+    "operator:type": "public",
+    "phone": "607 414 142",
     "recycling:batteries": "yes",
     "recycling:beverage_cartons": "yes",
     "recycling:cans": "yes",
@@ -2555,6 +2560,27 @@
     "recycling:plastic": "yes",
     "recycling:scrap_metal": "yes",
     "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8833476625,
+  "lat": 49.1731727,
+  "lon": 17.2647218,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
     "recycling_type": "container"
   }
 },
