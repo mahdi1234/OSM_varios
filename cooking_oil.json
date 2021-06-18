@@ -3168,6 +3168,20 @@
   }
 },
 {
+  "type": "node",
+  "id": 8841362838,
+  "lat": 49.9707102,
+  "lon": 14.4612533,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 27169702,
   "nodes": [
