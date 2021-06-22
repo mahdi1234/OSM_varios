@@ -603,6 +603,7 @@
   "lon": 16.6480465,
   "tags": {
     "amenity": "recycling",
+    "check_date": "2021-06-21",
     "recycling:batteries": "yes",
     "recycling:clothes": "yes",
     "recycling:glass": "yes",
