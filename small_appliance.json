@@ -2191,6 +2191,30 @@
 },
 {
   "type": "node",
+  "id": 3461729738,
+  "lat": 49.1744590,
+  "lon": 16.4110374,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
   "id": 3465807345,
   "lat": 50.2444639,
   "lon": 14.3092669,
@@ -10794,6 +10818,25 @@
     "recycling:plastic": "yes",
     "recycling:plastic_bottles": "yes",
     "recycling:plastic_packaging": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8866499230,
+  "lat": 49.1707644,
+  "lon": 16.4052353,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:beverage_cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
     "recycling:small_appliances": "yes",
     "recycling_type": "container"
   }
