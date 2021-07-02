@@ -50,6 +50,20 @@
 },
 {
   "type": "node",
+  "id": 618628729,
+  "lat": 50.2094815,
+  "lon": 15.8381512,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 859900713,
   "lat": 50.0590395,
   "lon": 14.2876160,
@@ -1091,6 +1105,22 @@
     "recycling:tyres": "yes",
     "recycling:waste": "yes",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7023956089,
+  "lat": 48.9432349,
+  "lon": 14.4662925,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cans": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
   }
 },
 {
