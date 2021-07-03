@@ -398,6 +398,25 @@
 },
 {
   "type": "node",
+  "id": 1401974871,
+  "lat": 49.8754925,
+  "lon": 14.9050137,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
   "id": 1412444676,
   "lat": 50.0332162,
   "lon": 14.5194762,
