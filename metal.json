@@ -3662,6 +3662,7 @@
   "tags": {
     "amenity": "recycling",
     "recycling:clothes": "yes",
+    "recycling:glass": "yes",
     "recycling:metal": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes"
