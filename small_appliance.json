@@ -6084,9 +6084,11 @@
   "lon": 16.6402126,
   "tags": {
     "amenity": "recycling",
+    "recycling:batteries": "yes",
     "recycling:clothes": "yes",
     "recycling:electrical_appliances": "yes",
     "recycling:glass": "yes",
+    "recycling:green_waste": "yes",
     "recycling_type": "container"
   }
 },
