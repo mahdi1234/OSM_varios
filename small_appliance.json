@@ -12066,6 +12066,53 @@
 },
 {
   "type": "way",
+  "id": 352296122,
+  "nodes": [
+    3580484207,
+    3580484206,
+    3580484205,
+    3580484203,
+    3580484204,
+    7115214490,
+    7875804769,
+    6318341080,
+    8682617095,
+    3580484211,
+    3580484213,
+    8682617094,
+    3580484214,
+    3580484209,
+    3580484208,
+    3580484207
+  ],
+  "tags": {
+    "addr:city": "Čelákovice",
+    "addr:postcode": "25088",
+    "addr:street": "Mochovská",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu,Th 10:00-15:00; We 11:00-18:00; Fr 12:00-18:00; Sa 09:00-12:00,14:00-17:00",
+    "operator": "Technické služby Čelákovice příspěvková organizace",
+    "operator:type": "public",
+    "recycling:aluminium": "yes",
+    "recycling:batteries": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:electrical_items": "yes",
+    "recycling:garden_waste": "yes",
+    "recycling:glass": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "centre",
+    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php"
+  }
+},
+{
+  "type": "way",
   "id": 364117845,
   "nodes": [
     1820413798,
@@ -16349,6 +16396,105 @@
   "id": 7230987224,
   "lat": 50.0878604,
   "lon": 14.6145770
+},
+{
+  "type": "node",
+  "id": 3580484205,
+  "lat": 50.1603864,
+  "lon": 14.7578917
+},
+{
+  "type": "node",
+  "id": 3580484206,
+  "lat": 50.1605914,
+  "lon": 14.7569606
+},
+{
+  "type": "node",
+  "id": 3580484207,
+  "lat": 50.1606308,
+  "lon": 14.7569278
+},
+{
+  "type": "node",
+  "id": 3580484208,
+  "lat": 50.1607465,
+  "lon": 14.7570411
+},
+{
+  "type": "node",
+  "id": 3580484209,
+  "lat": 50.1608239,
+  "lon": 14.7571219
+},
+{
+  "type": "node",
+  "id": 3580484211,
+  "lat": 50.1609525,
+  "lon": 14.7574630
+},
+{
+  "type": "node",
+  "id": 3580484213,
+  "lat": 50.1609721,
+  "lon": 14.7573765
+},
+{
+  "type": "node",
+  "id": 3580484214,
+  "lat": 50.1609341,
+  "lon": 14.7572143
+},
+{
+  "type": "node",
+  "id": 6318341080,
+  "lat": 50.1608792,
+  "lon": 14.7577019,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7115214490,
+  "lat": 50.1607340,
+  "lon": 14.7580433,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7875804769,
+  "lat": 50.1608141,
+  "lon": 14.7578584,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 8682617094,
+  "lat": 50.1609660,
+  "lon": 14.7572900
+},
+{
+  "type": "node",
+  "id": 8682617095,
+  "lat": 50.1609076,
+  "lon": 14.7576226
+},
+{
+  "type": "node",
+  "id": 3580484203,
+  "lat": 50.1602076,
+  "lon": 14.7591730
+},
+{
+  "type": "node",
+  "id": 3580484204,
+  "lat": 50.1602361,
+  "lon": 14.7592018
 },
 {
   "type": "node",
