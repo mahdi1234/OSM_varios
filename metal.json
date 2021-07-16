@@ -361,6 +361,32 @@
 },
 {
   "type": "node",
+  "id": 8921261878,
+  "lat": 49.6215273,
+  "lon": 14.1372313,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "recycling:PET": "yes",
+    "recycling:aluminium": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:clothes": "yes",
+    "recycling:cooking_oil": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling_type": "container",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 4581944277,
   "lat": 49.8526903,
   "lon": 13.8885532,
